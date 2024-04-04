@@ -1,0 +1,4 @@
+This project is aimed at developing a website and a tracking for local transport company, 
+to enhance effective communication between commuters and transport company thereby customer care service.
+It is objected to solve challenges faced by commuters in missing job, hospital e.t.c appointment and lateness to work
+This project will objectively solve inadequate or unhealthy sleeping routine of commuters and reduce carbon monoxide emission as few vehicle will be on the road
